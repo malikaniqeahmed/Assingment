@@ -1,0 +1,219 @@
+body{
+    background-color: #302d2d;
+    font-family: sans-serif;
+    color: white;
+}
+.head{
+    margin-left: 230px;
+    margin-top: 40px;
+}
+.nav{
+    display: flex;
+    list-style-type: none;
+}
+.nav li{
+    margin-right: 40px;
+}
+a{
+    text-decoration: none;
+    color: rgb(193, 195, 197);
+    transition: all o.4s linear;
+}
+a:hover{
+    color:yellow;
+}
+.logo{
+    margin-left: 70px;
+    position: absolute;
+    display: flex;
+}
+.cname{
+    margin-top: -2px;
+    margin-left: 10px;
+    font-weight: bolder;
+    font-size: x-large;
+    color: #e4e0e0;
+}
+.icon{
+    display: flex;
+    justify-content: right;
+    margin-top: -35px;
+    margin-right: 130px;
+}
+.menu{
+    display: flex;
+    justify-content: right;
+    margin-top: -17px;
+    margin-right: 90px;
+}
+.im{
+  font-weight: lighter;
+  font-size: 40px; 
+  margin-left: 70px; 
+  position: absolute;
+  margin-top: 80px;
+  color:rgb(207, 201, 201);
+
+}
+.name{
+    font-weight: bolder;
+    font-size: 50px;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 70px;
+    letter-spacing: 1px;
+    color: white;
+    z-index: -888;
+}
+hr{
+    margin-top: 270px;
+    border: 4px solid;
+    color: yellow;
+    width: 120px;
+    margin-left: 70px ;
+}
+.pera{
+    margin-left: 70px;
+    width: 300px;
+    margin-top: 60px;
+    font-weight: 100;
+    color:rgb(207, 201, 201);
+
+}
+.img{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -330px;    
+    left: -100px;
+    z-index: -888;
+}
+.h3{
+    letter-spacing: 1px;
+    font-weight:lighter;
+    font-size: 20px;
+    color:rgb(207, 201, 201);
+}
+.pera2{
+margin-left:781px ;
+width: 470px;
+margin-top: -820px;
+font-size: large;
+color:rgb(207, 201, 201);
+
+
+}
+.go{
+    margin-left:780px ;
+    width: 300px;
+    margin-top: 27px;
+    color: yellow;
+    font-weight: lighter;
+}
+.ficon{
+    margin-left:780px ;
+    width: 300px;
+    margin-top: 27px;
+}
+.ticon{
+    margin-left:830px ;
+    width: 300px;
+    margin-top: -27px;
+}
+.Iicon{
+    margin-left:880px ;
+    width: 300px;
+    margin-top: -28px;
+}
+.picon{
+    margin-left:930px ;
+    width: 300px;
+    margin-top: -28px;
+}
+.bg{
+    background-color: rgb(36, 34, 34) ;
+    border-radius: 100%;
+    opacity: 70%;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    justify-content: center;
+    top: 90px;    
+    left: 360px;
+    z-index: -999;
+}
+.bot{
+    color: #423d3d;
+    z-index: 999;
+    width: 1085px;
+    border: 55px solid;
+    margin-left: 70px;
+    margin-top: 200px;
+    box-shadow: 5px 5px 21px 3px rgba(0,0,0,0.67);
+    display: flex;
+}
+.s1{
+    width: 120px;
+    border: 28px solid;
+    margin-left: 150px;
+    display: flex;
+    color: #302d2d;
+    margin-top: -83px;
+    box-shadow: 5px 5px 18px 2px rgba(0, 0, 0, 0.67);}
+.glogo{
+    margin-left: 175px;
+    display: flex;
+    margin-top: -110px;
+}
+.s2{
+    width: 120px;
+    border: 28px solid;
+    margin-left: 430px;
+    display: flex;
+    color: #302d2d;
+    margin-top: -55px;
+    box-shadow: 5px 5px 18px 2px rgba(0, 0, 0, 0.67);}
+.Llogo{
+    margin-left: 460px;
+    display: flex;
+    margin-top: -170px;
+}
+
+.s3{
+    width: 120px;
+    border: 28px solid;
+    margin-left: 710px;
+    display: flex;
+    color: #302d2d;
+    margin-top: -55px;
+    box-shadow: 5px 5px 18px 2px rgba(0, 0, 0, 0.67);}
+.slogo{
+    margin-left: 1030px;
+    display: flex;
+    margin-top: -167px;
+}
+.s4{
+    width: 120px;
+    border: 28px solid;
+    margin-left: 1000px;
+    display: flex;
+    color: #302d2d;
+    margin-top: -57px;
+    box-shadow: 5px 5px 18px 2px rgba(0, 0, 0, 0.67);
+}
+.blogo{
+    margin-left: 740px;
+    display: flex;
+    margin-top: -167px
+}
+.bottom{
+    display: flex;
+    position: absolute;
+    width: 1210px;
+    border: 60px solid;
+    margin-top: 250px;
+    z-index: -999;
+    color: #221f1f;
+    padding: 0px;
+}
+
